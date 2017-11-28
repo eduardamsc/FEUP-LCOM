@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/lcom1718-t7g09/!svn/ver/33/lab3
+END
+i8254.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/17/lab3/i8254.h
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1718-t7g09/!svn/ver/32/lab3/keyboard.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/18/lab3/timer.c
+END
+lab3.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/lcom1718-t7g09/!svn/ver/31/lab3/lab3.c
+END
+test3.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/32/lab3/test3.c
+END
+kbc_cmdr
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1718-t7g09/!svn/ver/19/lab3/kbc_cmdr
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1718-t7g09/!svn/ver/32/lab3/keyboard.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/17/lab3/timer.h
+END
+ass.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/lcom1718-t7g09/!svn/ver/33/lab3/ass.S
+END
+test3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/17/lab3/test3.h
+END
+i8042.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/lcom1718-t7g09/!svn/ver/31/lab3/i8042.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/lcom1718-t7g09/!svn/ver/31/lab3/Makefile
+END
