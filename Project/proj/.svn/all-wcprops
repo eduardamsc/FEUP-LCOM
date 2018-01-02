@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/lcom1718-t7g09/!svn/ver/122/proj
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1718-t7g09/!svn/ver/70/proj/install.sh
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/lcom1718-t7g09/!svn/ver/70/proj/compile.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/lcom1718-t7g09/!svn/ver/70/proj/run.sh
+END
